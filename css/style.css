@@ -275,10 +275,12 @@ html {
 
 
 .btn-envio{
-    width: 80%;
+    width: 40%;
     height: 30px;
     margin-top: 2rem;
-    background-color: transparent;
+    background-color: #3D4B65;
+    color: white;
+    border-radius: 10px;
     border: none;
     cursor: pointer;
 }
