@@ -115,10 +115,10 @@ html {
     border-radius: 10px;
 }
 .sinTarea{
-    border: thin solid red;
+    /* border: thin solid red; */
     width: 100%;
     display: inline-block;
-    font-size: 1.6rem;
+    font-size: 1.3rem;
     text-align: center;
 }
 .tarea.completada{
